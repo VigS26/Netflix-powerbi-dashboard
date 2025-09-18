@@ -84,10 +84,3 @@ Compare Netflix’s catalog with competitors (Disney+, Prime Video).
 Vigneshwari Senthil
 
 
-
-
-
-
----
-
-👉 Do you also want me to design the dashboard structure (which visuals to include: e.g., bar charts for year, pie chart for type, maps for country, etc.) so you have a ready-made layout to build in Power BI?
